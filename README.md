@@ -383,7 +383,7 @@ As seen above, when the user clicks on cancel, we are restoring the item swiped,
 
 ### What's In Next Tutorial
 
-In our next tutorial, we will use **ButterKnife** a popular library to inject views in **NoteApp**.
+In our next tutorial [**tutorial**](https://androidpirate.github.io/NoteAppButterknife/ "NoteAppButterknife"), we will use **ButterKnife** a popular library to inject views in **NoteApp**.
 
 
 
